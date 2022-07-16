@@ -31,6 +31,12 @@
 
 <div align="center">
 
-<a href="https://stackoverflow.com/users/16467763/dholahardik"><img src="https://img.shields.io/stackexchange/stackoverflow/r/16467763?label=stackoverflow&style=plastic" alt="Stackoverflow"></a>
-
+<a href="https://in.linkedin.com/in/dhola-hardik-801673124" style="color:#ffffff">
+  <img alt="DholaHardik LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+&nbsp;
+<a href="https://github.com/dhola-hardik">
+  <img alt="DholaHardik Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+  
 </div>
