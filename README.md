@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Dhola Hardik.
 
-<img height="180em" align="right" src="https://user-images.githubusercontent.com/83745421/179344479-5d0567c5-5a69-4cdd-8bf7-200503d3a955.png"/>
+<img height="180em" align="right" src="https://user-images.githubusercontent.com/83745421/188064383-c74c6181-d053-4758-8ba5-91f6b8361a34.png"/>
 
 <p>
 
