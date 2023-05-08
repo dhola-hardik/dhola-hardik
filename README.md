@@ -12,11 +12,11 @@
 
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=dhola-hardik&theme=default&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+![Hardik’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dhola-hardik&theme=default&show_icons=true&hide_border=true&include_all_commits=true&count_private=false)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhola-hardik&theme=default&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhola-hardik&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhola-hardik&theme=default&layout=compact&hide_border=true&include_all_commits=true&count_private=false"/>
 
 
 <br/>
